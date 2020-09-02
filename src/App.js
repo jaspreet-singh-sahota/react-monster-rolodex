@@ -9,22 +9,16 @@ class App extends React.Component {
     super()
 
     this.state = {
-      monsters: [
-        {        
-          name: 'jassi',
-          id: 'jassi'
-        },
-        {        
-          name: 'nannu',
-          id: 'nannu'
-        },
-        {        
-          name: 'aman',
-          id: 'aman'
-        },
-      ]
+      monsters: []
     }
+
   }
+  componentDidMount() {
+    fetch('https://jsonplaceholder.typicode.com/users')
+      .then(response => response.json())
+      .then(users => this.setState({monsters: users}))
+  }    
+
   render() {
     return (
       <div className="App">
