@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.f8c3f3b2.chunk.css",
-    "main.js": "/static/js/main.fd0c2102.chunk.js",
-    "main.js.map": "/static/js/main.fd0c2102.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.80c5e1e7.js",
-    "runtime-main.js.map": "/static/js/runtime-main.80c5e1e7.js.map",
-    "static/js/2.9fc7c5d0.chunk.js": "/static/js/2.9fc7c5d0.chunk.js",
-    "static/js/2.9fc7c5d0.chunk.js.map": "/static/js/2.9fc7c5d0.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.6a4b65ca1452ecf8119d7c12804f9f22.js": "/precache-manifest.6a4b65ca1452ecf8119d7c12804f9f22.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.f8c3f3b2.chunk.css.map": "/static/css/main.f8c3f3b2.chunk.css.map",
-    "static/js/2.9fc7c5d0.chunk.js.LICENSE.txt": "/static/js/2.9fc7c5d0.chunk.js.LICENSE.txt"
+    "main.css": "/jaspreet-singh-sahota/react-monster-rolodex/static/css/main.f8c3f3b2.chunk.css",
+    "main.js": "/jaspreet-singh-sahota/react-monster-rolodex/static/js/main.4da15857.chunk.js",
+    "main.js.map": "/jaspreet-singh-sahota/react-monster-rolodex/static/js/main.4da15857.chunk.js.map",
+    "runtime-main.js": "/jaspreet-singh-sahota/react-monster-rolodex/static/js/runtime-main.6b761d4e.js",
+    "runtime-main.js.map": "/jaspreet-singh-sahota/react-monster-rolodex/static/js/runtime-main.6b761d4e.js.map",
+    "static/js/2.9fc7c5d0.chunk.js": "/jaspreet-singh-sahota/react-monster-rolodex/static/js/2.9fc7c5d0.chunk.js",
+    "static/js/2.9fc7c5d0.chunk.js.map": "/jaspreet-singh-sahota/react-monster-rolodex/static/js/2.9fc7c5d0.chunk.js.map",
+    "index.html": "/jaspreet-singh-sahota/react-monster-rolodex/index.html",
+    "precache-manifest.cfdde0966c56bd7c54db445877d7e3d5.js": "/jaspreet-singh-sahota/react-monster-rolodex/precache-manifest.cfdde0966c56bd7c54db445877d7e3d5.js",
+    "service-worker.js": "/jaspreet-singh-sahota/react-monster-rolodex/service-worker.js",
+    "static/css/main.f8c3f3b2.chunk.css.map": "/jaspreet-singh-sahota/react-monster-rolodex/static/css/main.f8c3f3b2.chunk.css.map",
+    "static/js/2.9fc7c5d0.chunk.js.LICENSE.txt": "/jaspreet-singh-sahota/react-monster-rolodex/static/js/2.9fc7c5d0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.80c5e1e7.js",
+    "static/js/runtime-main.6b761d4e.js",
     "static/js/2.9fc7c5d0.chunk.js",
     "static/css/main.f8c3f3b2.chunk.css",
-    "static/js/main.fd0c2102.chunk.js"
+    "static/js/main.4da15857.chunk.js"
   ]
 }
