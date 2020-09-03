@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/jaspreet-singh-sahota/react-monster-rolodex/static/css/main.f8c3f3b2.chunk.css",
-    "main.js": "/jaspreet-singh-sahota/react-monster-rolodex/static/js/main.4da15857.chunk.js",
-    "main.js.map": "/jaspreet-singh-sahota/react-monster-rolodex/static/js/main.4da15857.chunk.js.map",
-    "runtime-main.js": "/jaspreet-singh-sahota/react-monster-rolodex/static/js/runtime-main.6b761d4e.js",
-    "runtime-main.js.map": "/jaspreet-singh-sahota/react-monster-rolodex/static/js/runtime-main.6b761d4e.js.map",
-    "static/js/2.9fc7c5d0.chunk.js": "/jaspreet-singh-sahota/react-monster-rolodex/static/js/2.9fc7c5d0.chunk.js",
-    "static/js/2.9fc7c5d0.chunk.js.map": "/jaspreet-singh-sahota/react-monster-rolodex/static/js/2.9fc7c5d0.chunk.js.map",
-    "index.html": "/jaspreet-singh-sahota/react-monster-rolodex/index.html",
-    "precache-manifest.cfdde0966c56bd7c54db445877d7e3d5.js": "/jaspreet-singh-sahota/react-monster-rolodex/precache-manifest.cfdde0966c56bd7c54db445877d7e3d5.js",
-    "service-worker.js": "/jaspreet-singh-sahota/react-monster-rolodex/service-worker.js",
-    "static/css/main.f8c3f3b2.chunk.css.map": "/jaspreet-singh-sahota/react-monster-rolodex/static/css/main.f8c3f3b2.chunk.css.map",
-    "static/js/2.9fc7c5d0.chunk.js.LICENSE.txt": "/jaspreet-singh-sahota/react-monster-rolodex/static/js/2.9fc7c5d0.chunk.js.LICENSE.txt"
+    "main.css": "/react-monster-rolodex/static/css/main.f8c3f3b2.chunk.css",
+    "main.js": "/react-monster-rolodex/static/js/main.dfa54254.chunk.js",
+    "main.js.map": "/react-monster-rolodex/static/js/main.dfa54254.chunk.js.map",
+    "runtime-main.js": "/react-monster-rolodex/static/js/runtime-main.3c77c163.js",
+    "runtime-main.js.map": "/react-monster-rolodex/static/js/runtime-main.3c77c163.js.map",
+    "static/js/2.9fc7c5d0.chunk.js": "/react-monster-rolodex/static/js/2.9fc7c5d0.chunk.js",
+    "static/js/2.9fc7c5d0.chunk.js.map": "/react-monster-rolodex/static/js/2.9fc7c5d0.chunk.js.map",
+    "index.html": "/react-monster-rolodex/index.html",
+    "precache-manifest.b2a809f8321f32dfa2235ec348b0f7b0.js": "/react-monster-rolodex/precache-manifest.b2a809f8321f32dfa2235ec348b0f7b0.js",
+    "service-worker.js": "/react-monster-rolodex/service-worker.js",
+    "static/css/main.f8c3f3b2.chunk.css.map": "/react-monster-rolodex/static/css/main.f8c3f3b2.chunk.css.map",
+    "static/js/2.9fc7c5d0.chunk.js.LICENSE.txt": "/react-monster-rolodex/static/js/2.9fc7c5d0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6b761d4e.js",
+    "static/js/runtime-main.3c77c163.js",
     "static/js/2.9fc7c5d0.chunk.js",
     "static/css/main.f8c3f3b2.chunk.css",
-    "static/js/main.4da15857.chunk.js"
+    "static/js/main.dfa54254.chunk.js"
   ]
 }
